@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skynet-HK-Aerial-Drone", "Skynet-HK-Aerial-Drone\Skynet-HK-Aerial-Drone.vcxproj", "{5200B9C9-F0A1-4991-96BE-2BFFBFB76487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5200B9C9-F0A1-4991-96BE-2BFFBFB76487}.Debug|x64.ActiveCfg = Debug|x64
+		{5200B9C9-F0A1-4991-96BE-2BFFBFB76487}.Debug|x64.Build.0 = Debug|x64
+		{5200B9C9-F0A1-4991-96BE-2BFFBFB76487}.Debug|x86.ActiveCfg = Debug|Win32
+		{5200B9C9-F0A1-4991-96BE-2BFFBFB76487}.Debug|x86.Build.0 = Debug|Win32
+		{5200B9C9-F0A1-4991-96BE-2BFFBFB76487}.Release|x64.ActiveCfg = Release|x64
+		{5200B9C9-F0A1-4991-96BE-2BFFBFB76487}.Release|x64.Build.0 = Release|x64
+		{5200B9C9-F0A1-4991-96BE-2BFFBFB76487}.Release|x86.ActiveCfg = Release|Win32
+		{5200B9C9-F0A1-4991-96BE-2BFFBFB76487}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72352410-CFD2-4C5B-9D7E-B29248DA702F}
+	EndGlobalSection
+EndGlobal
